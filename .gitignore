@@ -1,0 +1,7 @@
+# ignore  folder
+sass/
+
+# ignore all map file
+*.map
+
+
